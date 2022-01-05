@@ -1,0 +1,81 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.flexible-container{
+    display: flex;
+    margin-bottom: 125px;
+}
+h1{
+    font-size: 35px;
+}
+.dari{
+    border-left: 6px solid indianred;
+    border-radius: 2px;
+}
+#mission{
+    color: goldenrod;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orangered;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+#explore{
+    font-size: 12px;
+    padding-top: 15px;
+}
+#my-dream{
+    text-align: center;
+}
+#color{
+    color: indianred;
+}
+.mission{
+    width: 26%;
+}
+.my-mission{
+    margin: 2%;
+}
+.mission img{
+    width: 50%;
+}
+.mission-1{
+    background-color: lightblue;
+    margin-left: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+}
+.vission-1{
+    background-color: lightgray;
+    margin-left: 25px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 6px;
+}
+.goal-1{
+    background-color: lightcyan;
+    margin-left: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    border-radius: 6px;
+}
+.foother{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#foother-color{
+    color: tomato;
+}
